@@ -5,6 +5,7 @@
 - I'm 🇨🇵 french 
 - I would define myself as a dreamy and creative bearded guy
 - I’m interested in a lot of thing like Development, UX/UI, High Tech, Music, Anime, Beer,...
+- I'm currently working as a Salesforce Developer
 - I’m currently learning React Native & Node JS
 - You can also find me on [LinkedIn](https://www.linkedin.com/in/lefortcorentin/) or [DoYouBuzz](https://www.doyoubuzz.com/corentin-lefort)
 
