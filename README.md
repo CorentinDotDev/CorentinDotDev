@@ -35,6 +35,7 @@
 
 #### IDE / Editor :
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/IntelliJ-f31199?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![image](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
 #### Tools
