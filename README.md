@@ -5,8 +5,8 @@
 - I'm 🇨🇵 french 
 - I would define myself as a dreamy and creative bearded guy
 - I’m interested in a lot of thing like Development, UX/UI, High Tech, Music, Anime, Beer,...
-- I'm currently working as a Salesforce Developer
-- I’m currently learning React Native & Node JS
+- I'm currently working as a React Developer
+- I also learn React Native & Node JS
 - You can also find me on [LinkedIn](https://www.linkedin.com/in/lefortcorentin/) or [DoYouBuzz](https://www.doyoubuzz.com/corentin-lefort)
 
 ### Summary :
@@ -17,7 +17,8 @@
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![image](https://img.shields.io/badge/Prisma-5a67d8?style=for-the-badge&logo=prisma&logoColor=white)
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
