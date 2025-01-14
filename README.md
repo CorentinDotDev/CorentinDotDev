@@ -47,7 +47,7 @@
 
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-5551ff?style=for-the-badge&logo=figma&logoColor=white)
-![image](https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![image](https://img.shields.io/badge/Gitlab-fca327?style=for-the-badge&logo=gitlab&logoColor=white)
 ![image](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![image](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
