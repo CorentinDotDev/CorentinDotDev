@@ -7,7 +7,7 @@
 - I’m interested in a lot of thing like Software Development, UX/UI, AI, High Tech, Home automation, Anime, Music, Beer,...
 - I'm currently working as a React Developer
 - I also learn React Native & Node JS
-- You can also find me on [LinkedIn](https://www.linkedin.com/in/lefortcorentin/) or [DoYouBuzz](https://www.doyoubuzz.com/corentin-lefort)
+- You can also find me on [LinkedIn](https://www.linkedin.com/in/lefortcorentin/) or view my resume on [DoYouBuzz](https://www.doyoubuzz.com/corentin-lefort)
 
 ### Summary :
 
