@@ -31,13 +31,14 @@
 ![image](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 #### Browsers :
-![image](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft%20Edge-0f539b?style=for-the-badge&logo=edge&logoColor=white)
 ![image](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
 #### IDE / Editor :
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/Github%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![image](https://img.shields.io/badge/IntelliJ-f31199?style=for-the-badge&logo=intellijidea&logoColor=white)
-![image](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![image](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
 
 #### Tools
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
