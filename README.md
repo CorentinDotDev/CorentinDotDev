@@ -4,7 +4,7 @@
 
 - I'm 🇨🇵 french 
 - I would define myself as a dreamy and creative bearded guy
-- I’m interested in a lot of thing like Development, UX/UI, AI, High Tech, Music, Anime, Beer,...
+- I’m interested in a lot of thing like Software Development, UX/UI, AI, High Tech, Home automation, Anime, Music, Beer,...
 - I'm currently working as a React Developer
 - I also learn React Native & Node JS
 - You can also find me on [LinkedIn](https://www.linkedin.com/in/lefortcorentin/) or [DoYouBuzz](https://www.doyoubuzz.com/corentin-lefort)
