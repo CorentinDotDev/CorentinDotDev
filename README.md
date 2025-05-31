@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Nitneroc85
+## 👋 Hi, I’m Corentin Lefort
 
 🇬🇧 **EN** – Developer passionate about tech and innovation.  
 I love exploring, building, and turning ideas into meaningful projects.  
@@ -7,7 +7,7 @@ Naturally curious, I’m into UX/UI, AI, home automation, music, and anime.
 Currently working as a **React Developer**,  
 and learning **React Native** and **Node.js** to expand my playground.  
 
-Feel free to reach out via [LinkedIn](#) or check my resume on [DoYouBuzz](#).  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/lefortcorentin) or check my resume on [DoYouBuzz](https://www.doyoubuzz.com/corentin-lefort).  
 If you're working on something exciting or unusual, I’d be happy to connect.
 
 ---
