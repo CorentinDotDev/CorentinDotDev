@@ -1,13 +1,26 @@
-## Hi, I’m @Nitneroc85
+## 👋 Hi, I’m @Nitneroc85
 
-### Let's quickly introduce myself
+🇫🇷 **FR** – Développeur passionné par la tech et l’innovation.  
+J’aime explorer, créer, et donner vie aux idées.  
+Curieux de nature, je m’intéresse autant à l’UX/UI qu’à l’IA, la domotique, la musique ou encore les animés.  
 
-- I'm 🇨🇵 french 
-- I would define myself as a dreamy and creative bearded guy
-- I’m interested in a lot of thing like Software Development, UX/UI, AI, High Tech, Home automation, Anime, Music, Beer,...
-- I'm currently working as a React Developer
-- I also learn React Native & Node JS
-- You can also find me on [LinkedIn](https://www.linkedin.com/in/lefortcorentin/) or view my resume on [DoYouBuzz](https://www.doyoubuzz.com/corentin-lefort)
+Je travail actuellement en tant que **Développeur React**,  
+Et j'apprend **React Native** et **Node.js** avec l’envie de contribuer à des projets.
+
+Tu peux me retrouver sur [LinkedIn](https://www.linkedin.com/in/lefortcorentin) ou consulter mon CV sur [DoYouBuzz](https://www.doyoubuzz.com/corentin-lefort).  
+Si tu as une idée à partager ou un projet qui sort des sentiers battus, je suis toujours partant pour en discuter.
+
+---
+
+🇬🇧 **EN** – Developer passionate about tech and innovation.  
+I love exploring, building, and turning ideas into meaningful projects.  
+Naturally curious, I’m into UX/UI, AI, home automation, music, and anime.
+
+Currently working as a **React Developer**,  
+and learning **React Native** and **Node.js** to expand my playground.  
+
+Feel free to reach out via [LinkedIn](#) or check my resume on [DoYouBuzz](#).  
+If you're working on something exciting or unusual, I’d be happy to connect.
 
 ### Summary :
 
